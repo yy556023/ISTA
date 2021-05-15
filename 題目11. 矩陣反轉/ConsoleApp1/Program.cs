@@ -22,7 +22,7 @@ namespace ConsoleApp1
             {
                 inp = Console.ReadLine().Split(' ');
 
-                for (int j = 0; j < inp.Length; j++)
+                for (int j = 0; j < b; j++)
                 {
                     oup[j, i] = inp[j];
                 }
