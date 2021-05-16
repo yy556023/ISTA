@@ -17,7 +17,6 @@ namespace ConsoleApp1
                 a = a % b;
                 b = b % t;
             }
-
             Console.WriteLine(a + b);
         }
     }
