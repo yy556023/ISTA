@@ -1,0 +1,14 @@
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Documents\repo\C#\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Documents\repo\ISTA\題目15. 文字及字母出現次數\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
